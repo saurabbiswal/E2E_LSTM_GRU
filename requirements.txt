@@ -1,2 +1,12 @@
 ipykernel
 python-dotenv
+pandas
+tensorflow
+numpy
+scikit-learn
+scipy
+matplotlib
+seaborn
+nltk
+# Optional for Jupyter Notebook
+jupyter
